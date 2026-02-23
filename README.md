@@ -15,18 +15,13 @@ Desenvolvedor em constante evolução, sempre em busca do melhor desempenho e fo
 🚀 Focado em:
 - Automação de tarefas
 - Desenvolvimento web
-- Lógica de programação
 
 🔧 Gosto de:
 - Explorar novas tecnologias e ferramentas
 - Automatizar processos sempre que possível
 
 ⚡ Curiosidade:
-- Tenho paixão por desafios lógicos!
-
-## 🧪 Projetos em Destaque
-
-🔧 **Automatizador de Tarefas com Python**
+- Tenho paixão por resolver desafios complexos
 
 ## 📬 Contato
 
