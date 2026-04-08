@@ -26,4 +26,4 @@ Desenvolvedor em constante evolução, sempre em busca do melhor desempenho e fo
 ## 📬 Contato
 
 - 📧 Email: [gabrielpereira150606@gmail.com](mailto:gabrielpereira150606@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/gabriel-pl](https://www.linkedin.com/in/gabriel-pl)
+- 💼 LinkedIn: [linkedin.com/in/gabriel-pl](https://www.linkedin.com/in/gabriel-pl-)
