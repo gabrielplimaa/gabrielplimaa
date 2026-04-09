@@ -1,29 +1,33 @@
-# 👋 Olá! Eu sou Gabriel Lima
+# 👋 Olá, eu sou o Gabriel Lima!
 
-Desenvolvedor em constante evolução, sempre em busca do melhor desempenho e focado em resolver problemas com código. 💻
+### 🎓 Estudante de Ciência da Computação na CESAR School (IR: 8.76)
+Sou um desenvolvedor focado em construir soluções eficientes, com forte interesse em **Inteligência Artificial**, **Arquitetura de Software** e **Gestão de Dados**. Atualmente, busco aplicar meus conhecimentos em projetos colaborativos e desafios técnicos complexos.
 
-## 👨‍💻 Sobre mim
+---
 
-🎯 Atualmente estudando:
-- Python
-- Java
-- C
-- CSS
-- HTML
-- JavaScript
+## 🚀 Minhas Especialidades
 
-🚀 Focado em:
-- Automação de tarefas
-- Desenvolvimento web
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Back-end** | Java (POO), Python (Django), Linguagem C |
+| **Data & BI** | MySQL (CRUD), Power BI (Dashboards Interativos) |
+| **Front-end** | HTML5, CSS3, JavaScript |
+| **Ferramentas** | Git, Metodologias Ágeis, Alocação Dinâmica de Memória |
 
-🔧 Gosto de:
-- Explorar novas tecnologias e ferramentas
-- Automatizar processos sempre que possível
+---
 
-⚡ Curiosidade:
-- Tenho paixão por resolver desafios complexos
 
-## 📬 Contato
+## 📊 Estatísticas e Idiomas
+- **Português:** Nativo.
+- **Inglês:** Avançado (B2) - Capaz de conduzir discussões técnicas e de negócios.
+- **Foco Acadêmico:** Estruturas de dados avançadas (Listas encadeadas e ponteiros em C).
 
-- 📧 Email: [gabrielpereira150606@gmail.com](mailto:gabrielpereira150606@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/gabriel-pl](https://www.linkedin.com/in/gabriel-pl-)
+---
+
+## 📬 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pl-)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielpereira150606@gmail.com)
+
+---
+*"Sempre em busca do melhor desempenho e focado em resolver problemas com código."* 💻
